@@ -173,7 +173,7 @@ export const content = {
   en: {
     Nav,
     hero: {
-      title: "Full Stack Developement | Data Science Enthusiast.",
+      title: "Full Stack Developement || Data Science Enthusiast.",
 
       firstName: "Sayuru",
       LastName: "Samarawickrama.",
